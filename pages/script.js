@@ -16,7 +16,7 @@ $("#file-0").fileinput({
 });
 $("#file-1").fileinput({
     theme: 'fas',
-    uploadUrl: 'http://139.255.57.61/asdfda/upload.php', // you must set a valid URL here else you will get an error
+    uploadUrl: 'http://x/asdfda/upload.php', // you must set a valid URL here else you will get an error
     fileType: "any",
     // allowedFileExtensions: ['jpg', 'png', 'gif'],
     overwriteInitial: false,
